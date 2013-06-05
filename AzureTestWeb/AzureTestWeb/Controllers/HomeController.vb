@@ -2,7 +2,7 @@
     Inherits System.Web.Mvc.Controller
 
     Function Index() As ActionResult
-        ViewData("Message") = "Patrik tests Azure"
+        ViewData("Message") = "Patrik tests Azurecccc"
 
         Return View()
     End Function
